@@ -6,4 +6,5 @@ title: Termux as an ultimate way to fully unlock your device's Android OS potent
 
 # Intro
 
-![screenshot](https://starlinq.github.com/Termux/images/Screenshot_20171123-232304.png)
+![screenshot](https://github.com/starlinq/Termux/blob/master/images/Screenshot_20171123-232304.png)
+

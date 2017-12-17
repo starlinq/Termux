@@ -10,5 +10,7 @@ The Termux is not just a terminal emulator, it is a way to fully featured Linux 
 
 # R installation
 
+Below is a screenshot from a tablet device showing that R is successfully running.
+
 ![screenshot](https://github.com/starlinq/Termux/blob/master/images/Screenshot_20171123-232304.png)
 
